@@ -9,7 +9,7 @@ const MinimalistPayment = () => {
       <div className="max-w-xl mx-auto">
         <div className="mb-10 text-center">
           <h2 className="text-3xl font-semibold tracking-tight text-zinc-900">Checkout</h2>
-          <p className="text-zinc-500 mt-2 text-sm">Complete your purchase securely</p>
+          <p className="text-zinc-500 mt-2 text-sm">Complete your purchase securely here</p>
         </div>
 
         <div className="space-y-6">
