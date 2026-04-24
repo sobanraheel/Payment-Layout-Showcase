@@ -63,7 +63,7 @@ const MinimalistPayment = () => {
             </div>
 
             <button className="w-full bg-zinc-900 text-white py-4 rounded-xl font-medium hover:bg-zinc-800 transition-all transform active:scale-[0.98] flex items-center justify-center gap-2 mt-4">
-              Pay $129.00
+              Pay $149.00
               <ChevronRight size={18} />
             </button>
           </form>
@@ -114,7 +114,7 @@ const SplitScreenPayment = () => {
                 <h4 className="font-medium">Screen Protector</h4>
                 <p className="text-sm text-zinc-500">Ceramic Shield / 2-Pack</p>
                 <div className="flex justify-between mt-1">
-                  <span className="text-sm font-medium">$29.00</span>
+                  <span className="text-sm font-medium">$49.00</span>
                   <span className="text-xs text-zinc-400">Qty: 1</span>
                 </div>
               </div>
